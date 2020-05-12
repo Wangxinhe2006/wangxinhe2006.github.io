@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: 汪心禾 (Wang, Xinhe)
 description: Fell free to bookmark this to keep an eye on my project updates
-show_downloads: true
 gems:
   - jekyll-redirect-from
